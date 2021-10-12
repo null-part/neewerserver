@@ -1,5 +1,7 @@
 # neewerserver
 
+![Neewer](images/neewer.jpg)
+
 Neewer Lights are RGB LED panels supposed to be controled with a Neewer App on
 your mobile phone (iOS / Android). The official App connects to the devices with
 Bluetooth Low Energy (BLE) and allows the user to change the color, mode,
